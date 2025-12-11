@@ -1,4 +1,4 @@
-# Real-Time SLAM and Navigation on Husarion ROSbot XL using Ouster OS1
+# Autonomous Mobile Robot Perception Navigation on Husarion ROSbot XL using Ouster OS1
 
 A comprehensive ROS 2 navigation and SLAM package that integrates **Ouster 3D LiDAR** perception with the standard 2D **Nav2** stack for the **Husarion ROSbot XL**.
 
