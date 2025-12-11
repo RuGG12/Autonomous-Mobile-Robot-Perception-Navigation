@@ -76,7 +76,7 @@ Navigate to your ROS 2 workspace `src` directory and clone this repository:
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/RuGG12/inspector-nav.git
+git clone https://github.com/RuGG12/Autonomous-Mobile-Robot-Perception-Navigation.git
 ```
 
 ### Step 5: Install Package Dependencies
